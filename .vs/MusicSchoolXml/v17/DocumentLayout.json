@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|c:\\users\\mendel\\source\\repos\\musicschoolxml\\musicschoolxml\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|solutionrelative:musicschoolxml\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|c:\\users\\mendel\\source\\repos\\musicschoolxml\\musicschoolxml\\configuration\\musicschoolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|solutionrelative:musicschoolxml\\configuration\\musicschoolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|c:\\users\\mendel\\source\\repos\\musicschoolxml\\musicschoolxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|solutionrelative:musicschoolxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|c:\\users\\mendel\\source\\repos\\musicschoolxml\\musicschoolxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|solutionrelative:musicschoolxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|c:\\users\\mendel\\source\\repos\\musicschoolxml\\musicschoolxml\\musicschoolxml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{906402FF-2CB3-4A79-B775-5A14C7C55B7D}|MusicSchoolXml\\MusicSchoolXml.csproj|solutionrelative:musicschoolxml\\musicschoolxml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicSchoolXml\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Form1.cs",
+              "RelativeToolTip": "MusicSchoolXml\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:22:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicSchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Service\\MusicSchoolService.cs",
+              "RelativeDocumentMoniker": "MusicSchoolXml\\Service\\MusicSchoolService.cs",
+              "ToolTip": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Service\\MusicSchoolService.cs",
+              "RelativeToolTip": "MusicSchoolXml\\Service\\MusicSchoolService.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAiwMEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:30:07.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicSchoolXml\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Form1.cs [Design]",
+              "RelativeToolTip": "MusicSchoolXml\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:14:13.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicSchoolConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Configuration\\MusicSchoolConfiguration.cs",
+              "RelativeDocumentMoniker": "MusicSchoolXml\\Configuration\\MusicSchoolConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\Configuration\\MusicSchoolConfiguration.cs",
+              "RelativeToolTip": "MusicSchoolXml\\Configuration\\MusicSchoolConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:26:37.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicSchoolXml",
+              "DocumentMoniker": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\MusicSchoolXml.csproj",
+              "RelativeDocumentMoniker": "MusicSchoolXml\\MusicSchoolXml.csproj",
+              "ToolTip": "C:\\Users\\Mendel\\source\\repos\\MusicSchoolXml\\MusicSchoolXml\\MusicSchoolXml.csproj",
+              "RelativeToolTip": "MusicSchoolXml\\MusicSchoolXml.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T09:42:34.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

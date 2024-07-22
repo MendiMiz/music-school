@@ -1,0 +1,16 @@
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\bin\Debug\net8.0-windows\MusicSchoolXml.exe
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\bin\Debug\net8.0-windows\MusicSchoolXml.deps.json
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\bin\Debug\net8.0-windows\MusicSchoolXml.runtimeconfig.json
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\bin\Debug\net8.0-windows\MusicSchoolXml.dll
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\bin\Debug\net8.0-windows\MusicSchoolXml.pdb
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.Form1.resources
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.csproj.GenerateResource.cache
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.AssemblyInfoInputs.cache
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.AssemblyInfo.cs
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.csproj.CoreCompileInputs.cache
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.dll
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\refint\MusicSchoolXml.dll
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.pdb
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\MusicSchoolXml.genruntimeconfig.cache
+C:\Users\Mendel\source\repos\MusicSchoolXml\MusicSchoolXml\obj\Debug\net8.0-windows\ref\MusicSchoolXml.dll
