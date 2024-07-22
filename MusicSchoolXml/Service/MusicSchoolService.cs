@@ -14,6 +14,11 @@ namespace MusicSchoolXml.Service
 {
     internal static class MusicSchoolService
     {
+        public static void stamCacha()
+        {
+            Console.WriteLine("ajahgsdg");
+        }
+
         public static void CreateXmlIfNotExists()
         {
             if (!File.Exists(musicSchoolPath))
